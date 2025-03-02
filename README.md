@@ -19,7 +19,11 @@ The BSTNode class represents individual tree nodes.
 A stack data structure implemented using an array, supporting push, pop, peek, and size operations.  
   
 - Linked List-Based Stack (MyLinkedStack.java):  
-A linked list implementation of a stack, featuring push, pop, and peek operations, with dynamic memory allocation.  
+A linked list implementation of a stack, featuring push, pop, and peek operations, with dynamic memory allocation.
+
+- Programs 1-8:  
+These programs explore fundamental concepts in Java, data structures, algorithms, library usage, stacks, trees, OOP, and more. With each program, we were tasked with demonstrating
+our problem-solving abilities through coding exercises.  
   
 Each project demonstrates fundamental programming techniques such as encapsulation, recursion, and data structure implementation.
 
