@@ -25,6 +25,6 @@ A linked list implementation of a stack, featuring push, pop, and peek operation
 These programs explore fundamental concepts in Java, data structures, algorithms, library usage, stacks, trees, OOP, and more. With each program, we were tasked with demonstrating
 our problem-solving abilities through coding exercises.  
   
-Each project demonstrates fundamental programming techniques such as encapsulation, recursion, and data structure implementation.
+Each project demonstrates the programming techniques we learned such as encapsulation, recursion, and data structure implementation.
 
 
